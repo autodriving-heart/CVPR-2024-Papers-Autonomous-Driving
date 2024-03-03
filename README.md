@@ -29,6 +29,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2402.05746.pdf
 - Code: https://github.com/yifanlu0227/ChatSim
 
+**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**
+
+- Paper: https://arxiv.org/pdf/2312.07488.pdf
+- Code: https://github.com/opendilab/LMDrive
+
 
 
 ## 3）SSC: Semantic Scene Completion | 语义场景补全
@@ -40,7 +45,35 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 
 
-## 4）AIGC | 人工智能内容生成
+## 4）OCC: Occupancy Prediction | 占用感知
+
+**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**
+
+- Paper: https://arxiv.org/pdf/2311.12754.pdf
+- Code: https://github.com/huang-yh/SelfOcc
+
+**Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications**
+
+- Paper: https://arxiv.org/pdf/2311.17663.pdf
+- Code: https://github.com/haomo-ai/Cam4DOcc
+
+**PanoOcc: Unified Occupancy Representation for Camera-based 3D Panoptic Segmentation**
+
+- Paper: https://arxiv.org/pdf/2306.10013.pdf
+- Code: https://github.com/Robertwyq/PanoOcc
+
+
+
+## 5）Pre-training | 预训练
+
+**UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**
+
+- Paper: https://arxiv.org/pdf/2310.08370.pdf
+- Code: https://github.com/Nightmare-n/UniPAD
+
+
+
+## 6）AIGC | 人工智能内容生成
 
 **Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**
 
@@ -49,7 +82,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 
 
-## 5）3D Object Detection | 三维目标检测
+## 7）3D Object Detection | 三维目标检测
 
 **PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**
 
@@ -58,7 +91,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 
 
-## 6）Stereo Matching | 双目立体匹配
+## 8）Stereo Matching | 双目立体匹配
 
 **MoCha-Stereo: Motif Channel Attention Network for Stereo Matching**
 
@@ -67,7 +100,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 
 
-## 7）Cooperative Perception | 协同感知
+## 9）Cooperative Perception | 协同感知
 
 **RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**
 
@@ -76,7 +109,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 
 
-## 8）SLAM
+## 10）SLAM
 
 **SNI-SLAM: SemanticNeurallmplicit SLAM**
 
@@ -84,24 +117,43 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 
 
-## 9）Scene Flow Estimation | 场景流估计
+## 11）Scene Flow Estimation | 场景流估计
 
 **DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement**
 
 - Paper: https://arxiv.org/pdf/2311.17456.pdf
 - Code: https://github.com/IRMVLab/DifFlow3D
 
+**3DSFLabeling: Boosting 3D Scene Flow Estimation by Pseudo Auto Labeling**
+
+- Paper: https://arxiv.org/pdf/2402.18146.pdf
+- Code: https://github.com/jiangchaokang/3DSFLabelling
 
 
-## 10) Efficient Network
+
+## 12）Point Cloud | 点云
+
+**Point Transformer V3: Simpler, Faster, Stronger**
+
+- Paper: https://arxiv.org/pdf/2312.10035.pdf
+- Code: https://github.com/Pointcept/PointTransformerV3
+
+
+
+## 13) Efficient Network
 
 **Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**
 
 - Paper: https://arxiv.org/pdf/2401.06197.pdf
 
+**RepViT: Revisiting Mobile CNN From ViT Perspective**
+
+- Paper: https://arxiv.org/pdf/2307.09283.pdf
+- Code: https://github.com/THU-MIG/RepViT
 
 
-## 11) Segmentation
+
+## 14) Segmentation
 
 **OMG-Seg: Is One Model Good Enough For All Segmentation?**
 
