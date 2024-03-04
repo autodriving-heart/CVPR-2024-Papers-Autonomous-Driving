@@ -34,6 +34,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.07488.pdf
 - Code: https://github.com/opendilab/LMDrive
 
+**MAPLM: A Real-World Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding**
+
+- Paper: 
+- Code: https://github.com/LLVM-AD/MAPLM
+
 
 
 ## 3）SSC: Semantic Scene Completion | 语义场景补全
@@ -42,6 +47,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper: https://arxiv.org/pdf/2306.15670.pdf
 - Code: https://github.com/hustvl/Symphonies
+
+**PaSCo: Urban 3D Panoptic Scene Completion with Uncertainty Awareness**
+
+- Paper: https://arxiv.org/pdf/2312.02158.pdf
+- Code: https://github.com/astra-vision/PaSCo
 
 
 
@@ -79,6 +89,16 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper: https://arxiv.org/pdf/2311.16813.pdf
 - Code: https://github.com/wenyuqing/panacea
+
+**SemCity: Semantic Scene Generation with Triplane Diffusion**
+
+- Paper: 
+- Code: https://github.com/zoomin-lee/SemCity
+
+**BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation**
+
+- Paper: https://arxiv.org/pdf/2312.02136.pdf
+- Code: https://github.com/zqh0253/BerfScene
 
 
 
@@ -129,6 +149,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2402.18146.pdf
 - Code: https://github.com/jiangchaokang/3DSFLabelling
 
+**Regularizing Self-supervised 3D Scene Flows with Surface Awareness and Cyclic Consistency**
+
+- Paper: https://arxiv.org/pdf/2312.08879.pdf
+- Code: https://github.com/vacany/sac-flow
+
 
 
 ## 12）Point Cloud | 点云
@@ -137,6 +162,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper: https://arxiv.org/pdf/2312.10035.pdf
 - Code: https://github.com/Pointcept/PointTransformerV3
+
+**Rethinking Few-shot 3D Point Cloud Semantic Segmentation**
+
+- Paper: https://arxiv.org/pdf/2403.00592.pdf
+- Code: https://github.com/ZhaochongAn/COSeg
 
 
 
@@ -159,6 +189,35 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper: https://arxiv.org/pdf/2401.10229.pdf
 - Code: https://github.com/lxtGH/OMG-Seg
+
+
+
+## 15）Radar | 毫米波雷达
+
+DART: Doppler-Aided Radar Tomography
+
+- Paper: 
+- Code: https://github.com/thetianshuhuang/dart
+
+
+
+## 16）Nerf | 神经辐射场
+
+**Dynamic LiDAR Re-simulation using Compositional Neural Fields**
+
+- Paper: https://arxiv.org/pdf/2312.05247.pdf
+- Code: https://github.com/prs-eth/Dynamic-LiDAR-Resimulation
+
+
+
+## 17）MOT: Muti-object Tracking | 多物体跟踪
+
+**Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**
+
+- Paper: 
+- Code: https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT
+
+
 
 
 
