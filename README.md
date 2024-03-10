@@ -20,6 +20,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.17655.pdf
 - Code: https://github.com/OpenDriveLab/ViDAR
 
+**PlanKD: Compressing End-to-End Motion Planner for Autonomous Driving**
+
+- Paper: https://arxiv.org/pdf/2403.01238.pdf
+- Code: https://github.com/tulerfeng/PlanKD
+
 
 
 ## 2）LLM Agent | 大语言模型智能体
@@ -109,6 +114,16 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.08371.pdf
 - Code: https://github.com/KuanchihHuang/PTT
 
+**VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection**
+
+- Paper: 
+- Code: https://github.com/skmhrk1209/VSRD
+
+**CaKDP: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection**
+
+- Paper:
+- Code: https://github.com/zhnxjtu/CaKDP
+
 
 
 ## 8）Stereo Matching | 双目立体匹配
@@ -168,6 +183,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2403.00592.pdf
 - Code: https://github.com/ZhaochongAn/COSeg
 
+**PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation**
+
+- Paper:
+- Code: https://github.com/JinfengX/PointCloudPDF
+
 
 
 ## 13) Efficient Network
@@ -190,11 +210,16 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2401.10229.pdf
 - Code: https://github.com/lxtGH/OMG-Seg
 
+**Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation**
+
+- Paper: https://arxiv.org/pdf/2312.04265.pdf
+- Code: https://github.com/w1oves/Rein
+
 
 
 ## 15）Radar | 毫米波雷达
 
-DART: Doppler-Aided Radar Tomography
+**DART: Doppler-Aided Radar Tomography**
 
 - Paper: 
 - Code: https://github.com/thetianshuhuang/dart
@@ -218,6 +243,22 @@ DART: Doppler-Aided Radar Tomography
 - Code: https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT
 
 
+
+## 18）Multi-label Atomic Activity Recognition
+
+**Action-slot: Visual Action-centric Representations for Multi-label Atomic Activity Recognition in Traffic Scenes**
+
+- Paper: https://arxiv.org/pdf/2311.17948.pdf
+- Code: https://github.com/HCIS-Lab/Action-slot
+
+
+
+## 19) Motion Prediction | 运动预测
+
+**SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction**
+
+- Paper: 
+- Code: https://github.com/opendilab/SmartRefine
 
 
 
