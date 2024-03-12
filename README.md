@@ -2,13 +2,11 @@
 
 This repository is continuously updated. We prioritize including articles that have already been submitted to arXiv.
 
-If your paper has been accepted and you would like us to include it in our repository, please submit an issue or contact [me](a3081246384@163.com) directly.
-
 We kindly invite you to our platform, Auto Driving Heart, for paper interpretation and sharing. If you would like to promote your paper, please feel free to contact me.
 
 
 
-## 1) End to End | 端到端自动驾驶
+### 1) End to End | 端到端自动驾驶
 
 **Is Ego Status All You Need for Open-Loop End-to-End Autonomous Driving?**
 
@@ -25,9 +23,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2403.01238.pdf
 - Code: https://github.com/tulerfeng/PlanKD
 
+**VLP: Vision Language Planning for Autonomous Driving**
 
+- Paper：https://arxiv.org/abs/2401.05577
 
-## 2）LLM Agent | 大语言模型智能体
+### 2）LLM Agent | 大语言模型智能体
 
 **ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration**
 
@@ -41,12 +41,22 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 **MAPLM: A Real-World Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding**
 
-- Paper: 
 - Code: https://github.com/LLVM-AD/MAPLM
 
+**One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models**
 
+- Paper：https://arxiv.org/pdf/2403.01849.pdf
+- Code：https://github.com/TreeLLi/APT
 
-## 3）SSC: Semantic Scene Completion | 语义场景补全
+**PromptKD: Unsupervised Prompt Distillation for Vision-Language Models**
+
+- Paper：https://arxiv.org/pdf/2403.02781
+
+**RegionGPT: Towards Region Understanding Vision Language Model**
+
+- Paper：https://arxiv.org/pdf/2403.02330
+
+### 3）SSC: Semantic Scene Completion | 语义场景补全
 
 **Symphonize 3D Semantic Scene Completion with Contextual Instance Queries**
 
@@ -58,9 +68,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.02158.pdf
 - Code: https://github.com/astra-vision/PaSCo
 
-
-
-## 4）OCC: Occupancy Prediction | 占用感知
+### 4）OCC: Occupancy Prediction | 占用感知
 
 **SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**
 
@@ -77,18 +85,20 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2306.10013.pdf
 - Code: https://github.com/Robertwyq/PanoOcc
 
+### 5）车道线检测
 
+**Lane2Seq: Towards Unified Lane Detection via Sequence Generation**
 
-## 5）Pre-training | 预训练
+- Paper：https://arxiv.org/abs/2402.17172
+
+### 6）Pre-training | 预训练
 
 **UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**
 
 - Paper: https://arxiv.org/pdf/2310.08370.pdf
 - Code: https://github.com/Nightmare-n/UniPAD
 
-
-
-## 6）AIGC | 人工智能内容生成
+### 7）AIGC | 人工智能内容生成
 
 **Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**
 
@@ -97,7 +107,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 **SemCity: Semantic Scene Generation with Triplane Diffusion**
 
-- Paper: 
+- Paper:
 - Code: https://github.com/zoomin-lee/SemCity
 
 **BerfScene: Bev-conditioned Equivariant Radiance Fields for Infinite 3D Scene Generation**
@@ -105,9 +115,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.02136.pdf
 - Code: https://github.com/zqh0253/BerfScene
 
-
-
-## 7）3D Object Detection | 三维目标检测
+### 8）3D Object Detection | 三维目标检测
 
 **PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**
 
@@ -116,43 +124,69 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 **VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection**
 
-- Paper: 
 - Code: https://github.com/skmhrk1209/VSRD
 
 **CaKDP: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection**
 
-- Paper:
 - Code: https://github.com/zhnxjtu/CaKDP
 
+**CN-RMA: Combined Network with Ray Marching Aggregation for 3D Indoors Object Detection from Multi-view Images**
 
+- Paper：https://arxiv.org/abs/2403.04198
+- Code：https://github.com/SerCharles/CN-RMA
 
-## 8）Stereo Matching | 双目立体匹配
+**UniMODE: Unified Monocular 3D Object Detection**
+
+- Paper：https://arxiv.org/abs/2402.18573
+
+**Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors**
+
+- Paper：https://arxiv.org/abs/2403.06093
+- Code：https://github.com/nullmax-vision/QAF2D
+
+**SAFDNet: A Simple and Effective Network for Fully Sparse 3D Object Detection**
+
+- Paper：https://arxiv.org/abs/2403.05817
+- Code：https://github.com/zhanggang001/HEDNet
+
+**RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features**
+
+- Paper：https://arxiv.org/pdf/2403.05061
+
+### 9）Stereo Matching | 双目立体匹配
 
 **MoCha-Stereo: Motif Channel Attention Network for Stereo Matching**
 
-- Paper: 
 - Code: https://github.com/ZYangChen/MoCha-Stereo
 
+**Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching**
 
+- Paper：https://arxiv.org/abs/2402.19270
+- Code：https://github.com/DFSDDDDD1199/ICGNet
 
-## 9）Cooperative Perception | 协同感知
+**Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching**
+
+- Paper：https://arxiv.org/abs/2403.00486
+- Code：https://github.com/Windsrain/Selective-Stereo
+
+### 10）Cooperative Perception | 协同感知
 
 **RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**
 
-- Paper: 
 - Code: https://github.com/ryhnhao/RCooper
 
-
-
-## 10）SLAM
+### 11）SLAM
 
 **SNI-SLAM: SemanticNeurallmplicit SLAM**
 
 - Paper: https://arxiv.org/pdf/2311.11016.pdf
 
+**CricaVPR: Cross-image Correlation-aware Representation Learning for Visual Place Recognition**
 
+- Paper：https://arxiv.org/abs/2402.19231
+- Code：https://github.com/Lu-Feng/CricaVPR
 
-## 11）Scene Flow Estimation | 场景流估计
+### 12）Scene Flow Estimation | 场景流估计
 
 **DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement**
 
@@ -169,9 +203,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.08879.pdf
 - Code: https://github.com/vacany/sac-flow
 
-
-
-## 12）Point Cloud | 点云
+### 13）Point Cloud | 点云
 
 **Point Transformer V3: Simpler, Faster, Stronger**
 
@@ -185,12 +217,9 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 **PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation**
 
-- Paper:
 - Code: https://github.com/JinfengX/PointCloudPDF
 
-
-
-## 13) Efficient Network
+### 14)  Efficient Network
 
 **Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**
 
@@ -201,9 +230,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2307.09283.pdf
 - Code: https://github.com/THU-MIG/RepViT
 
-
-
-## 14) Segmentation
+### 15) Segmentation
 
 **OMG-Seg: Is One Model Good Enough For All Segmentation?**
 
@@ -215,58 +242,80 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.04265.pdf
 - Code: https://github.com/w1oves/Rein
 
+**SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation**
 
+- Paper：https://arxiv.org/abs/2311.15707
 
-## 15）Radar | 毫米波雷达
+**SED: A Simple Encoder-Decoder for Open-Vocabulary Semantic Segmentation**
+
+- Paper：https://arxiv.org/abs/2311.15537
+
+**Style Blind Domain Generalized Semantic Segmentation via Covariance Alignment and Semantic Consistence Contrastive Learning**
+
+- Paper：https://arxiv.org/abs/2403.06122
+
+### 16）Radar | 毫米波雷达
 
 **DART: Doppler-Aided Radar Tomography**
 
-- Paper: 
 - Code: https://github.com/thetianshuhuang/dart
 
-
-
-## 16）Nerf | 神经辐射场
+### 17）Nerf与Gaussian Splatting
 
 **Dynamic LiDAR Re-simulation using Compositional Neural Fields**
 
 - Paper: https://arxiv.org/pdf/2312.05247.pdf
 - Code: https://github.com/prs-eth/Dynamic-LiDAR-Resimulation
 
+**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**
 
+- Paper：https://arxiv.org/abs/2403.03608
 
-## 17）MOT: Muti-object Tracking | 多物体跟踪
+**NARUTO: Neural Active Reconstruction from Uncertain Target Observations**
+
+- Paper：https://arxiv.org/abs/2402.18771
+
+**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**
+
+- Paper：https://arxiv.org/abs/2403.06912
+
+**S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes**
+
+- Paper：https://arxiv.org/pdf/2403.06205
+
+**DaReNeRF: Direction-aware Representation for Dynamic Scenes**
+
+- Paper：https://arxiv.org/pdf/2403.02265
+
+### 18）MOT: Muti-object Tracking | 多物体跟踪
 
 **Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**
 
-- Paper: 
 - Code: https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT
 
+**DeconfuseTrack:Dealing with Confusion for Multi-Object Tracking**
 
+- Paper：https://arxiv.org/abs/2403.02767
 
-## 18）Multi-label Atomic Activity Recognition
+### 19）Multi-label Atomic Activity Recognition
 
 **Action-slot: Visual Action-centric Representations for Multi-label Atomic Activity Recognition in Traffic Scenes**
 
 - Paper: https://arxiv.org/pdf/2311.17948.pdf
 - Code: https://github.com/HCIS-Lab/Action-slot
 
-
-
-## 19) Motion Prediction | 运动预测
+### 20) Motion Prediction | 运动预测
 
 **SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction**
 
-- Paper: 
 - Code: https://github.com/opendilab/SmartRefine
 
+### 21）卷积网络相关
 
+**CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective**
 
-## Postscript
-
-This repository was mainly written by Rujia Wang.
-
-If you have any questions about the paper list, please do not hesitate to email [me](https://github.com/autodriving-heart/Awesome-occupancy-perception/blob/main/a3081246384@163.com) or open an issue on GitHub.
+- Paper：https://arxiv.org/abs/2403.06676
+- Code：https://github.com/snskysk/CAM-Back-Again
 
 
 
