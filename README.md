@@ -323,6 +323,76 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 自动驾驶之心知识星球是过国内首个以自动驾驶技术栈为主线的交流学习社区（也是国内最大哦），这是一个前沿技术发布和学习的地方！我们汇总了自动驾驶感知（BEV、多模态感知、Occupancy、毫米波雷达视觉感知、车道线检测、3D感知、目标跟踪、多模态、多传感器融合、Transformer等）、自动驾驶定位建图（在线高精地图、高精地图、SLAM）、多传感器标定（Camera/Lidar/Radar/IMU等近20种方案）、Nerf、视觉语言模型、世界模型、规划控制、轨迹预测、领域技术方案、AI模型部署落地等几乎所有子方向的学习路线！
 
-除此之外，还和数十家自动驾驶公司建立了内推渠道，简历直达！这里可以自由提问交流，许多算法工程师和硕博日常活跃，解决问题！初衷是希望能够汇集行业大佬的智慧，在学习和就业上帮到大家！星球的每周活跃度都在前50内，非常注重大家积极性的调度和讨论，欢迎加入一起成长！
+## 自动驾驶课程
 
-[加入链接：自动驾驶之心知识星球 | 国内首个自动驾驶全栈学习社区，近30+感知/融合/规划/标定/预测等学习路线](https://mp.weixin.qq.com/s?__biz=Mzg2NzUxNTU1OA==&mid=2247580846&idx=1&sn=8bef76bf11bb0d5a92c32efdff315750&chksm=ceb99167f9ce18712e01dbbdb3991405ea619b5c8c57681c4f27debc8cc117cfb6d2690da9da&scene=21&token=85321819&lang=zh_CN#wechat_redirect)
+### 1）感知算法
+
+[国内首个BEV感知全栈系列学习教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2MjRdDQO8jGkz1Sx4AoJ0sytlIU)
+
+[多模态融合3D目标检测全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2SYwAhLiNWCyKhwUhSDjFihH7tx)
+
+[国内首个基于Transformer的分割检测+视觉大模型教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2TfDGv45mQbTBKS5km4MoQ4Vu66)
+
+[Occupancy从入门到精通全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2TerMWEsK9xR32mtgXwaFdxeSYs)
+
+[国内首个面向量产的车道线感知教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2UdY0Nw3nbRWYDJv9o9lgMcOvti)
+
+[点云3D目标检测理论与实战教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2WTzeULfAL2IZ32ezqrHhIQyrKG)
+
+[单目3D与单目BEV全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2Uc2U3dSQMqMX3FhA498V2x78Nd)
+
+[国内首门毫米波&4D毫米波雷达理论实战教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2WZpSw1X4P6FdSF1OMgj5aAe90p)
+
+### 2）多传感器标定融合
+
+[多传感器融合与目标跟踪全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2SHcc3nnl15j1f7EDGl0B22Vbg4)
+
+[多传感器标定全栈系统学习教程（相机/Lidar/Radar/IMU近20+种在线/离线实战方案）](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2PHSMppQhtUsLZ2R18GWOMOK5GW)
+
+[毫米波雷达和视觉融合感知全栈教程（深度学习+传统方式）](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2OpLfiVIGEGIt0vdHhqie7LqFbG)
+
+### 3）模型部署
+
+[基于TensroRT的CNN/Transformer/检测/BEV模型四大部署代码+CUDA加速全栈学习教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2Qzh2CekDJZMNuZq1Gfp3HOgIqx)
+
+### 4）规划控制与预测
+
+[规划控制理论&实战教程（从0到1彻底搞懂PNC算法）](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2R0KKH62Mo6UrSn6oxV6nL2LlH9)
+
+[轨迹预测理论与实战教程（国内首个轨迹预测系列）](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2VBk5awcjfEpgwzJ0RFdP7ZcIqg)
+
+[轨迹预测论文带读教程（从论文角度分析轨迹预测领域）](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2WOHt6sLxFGUTazapwEVLI3qeqq)
+
+### 5）Nerf与自动驾驶
+
+[国内首个Nerf与自动驾驶论文带读教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2VIPT5xg9bCdQpg2c9GaWELR38N)
+
+### 6）大模型专场
+
+[国内首个大模型与自动驾驶应用论文带读教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2YGQzZEjc5f7Z7zpdlGrsD9gNl7)
+
+[世界模型与自动驾驶论文带读课程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2ZIw7WP2H3SPvnc2PiVCnP0trJv)
+
+### 7）定位与建图
+
+[在线高精地图与自动驾驶论文带读教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2ZXECfaORjGOsNH5ro5kULmfIOA)
+
+### 8）自动驾驶仿真
+
+[自动驾驶离不开的仿真！Carla-Autoware联合仿真实战](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2bCKkNYcHG2Vs9Nnynr5bZZQwBr)
+
+### 9）大专栏系列
+
+[多传感器融合感知标定全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2PiRligVG0RyIohy6A3covkScbw)
+
+[多传感器标定/融合感知/模型部署全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2R2ZQoo9TK4wuCbVsP2Pg0l0dZ8)
+
+[感知算法与模型部署全栈教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2R2VoF87LmdBvw2RnGBSgj2l2zL)
+
+[自动驾驶全栈算法工程师系列](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2RCJlwWnGdgbFJAnXa5vaOK7Nh2)
+
+[多模态融合感知大专栏](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2TkVCn9jpK4b1nQfuil54Cb58hL)
+
+[自动驾驶全栈大专栏教程](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2VOGLKr9TaAcqURAey1MaX00Rv6)
+
+[规划控制&轨迹预测大专栏](https://www.zdjszx.com/p/t_pc/goods_pc_detail/goods_detail/course_2WmTf6RRZcWqT43ttRMnDBlSKGw)
