@@ -56,6 +56,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper：https://arxiv.org/pdf/2403.02330
 
+**Towards Learning a Generalist Model for Embodied Navigation**
+
+- Paper: https://arxiv.org/pdf/2312.02010.pdf
+- Code: https://github.com/zd11024/NaviLLM
+
 ### 3）SSC: Semantic Scene Completion | 语义场景补全
 
 **Symphonize 3D Semantic Scene Completion with Contextual Instance Queries**
@@ -67,6 +72,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper: https://arxiv.org/pdf/2312.02158.pdf
 - Code: https://github.com/astra-vision/PaSCo
+
+**SemCity: Semantic Scene Generationwith Triplane Diffusion**
+
+- Paper: https://arxiv.org/pdf/2403.07773.pdf
+- Code: https://github.com/zoomin-lee/SemCity
 
 ### 4）OCC: Occupancy Prediction | 占用感知
 
@@ -85,20 +95,27 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2306.10013.pdf
 - Code: https://github.com/Robertwyq/PanoOcc
 
-### 5）车道线检测
+### 5) World Model | 世界模型
+
+**Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving**
+
+- Paper: https://arxiv.org/pdf/2311.17918.pdf
+- Code: https://github.com/BraveGroup/Drive-WM
+
+### 6）车道线检测
 
 **Lane2Seq: Towards Unified Lane Detection via Sequence Generation**
 
 - Paper：https://arxiv.org/abs/2402.17172
 
-### 6）Pre-training | 预训练
+### 7）Pre-training | 预训练
 
 **UniPAD: A Universal Pre-training Paradigm for Autonomous Driving**
 
 - Paper: https://arxiv.org/pdf/2310.08370.pdf
 - Code: https://github.com/Nightmare-n/UniPAD
 
-### 7）AIGC | 人工智能内容生成
+### 8）AIGC | 人工智能内容生成
 
 **Panacea: Panoramic and Controllable Video Generation for Autonomous Driving**
 
@@ -115,7 +132,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.02136.pdf
 - Code: https://github.com/zqh0253/BerfScene
 
-### 8）3D Object Detection | 三维目标检测
+### 9）3D Object Detection | 三维目标检测
 
 **PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**
 
@@ -153,7 +170,22 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper：https://arxiv.org/pdf/2403.05061
 
-### 9）Stereo Matching | 双目立体匹配
+**IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection**
+
+- Paper: https://arxiv.org/pdf/2403.15241.pdf
+- Code: https://github.com/yinjunbo/IS-Fusion
+
+**RCBEVDet: Radar-camera Fusion in Bird’s Eye View for 3D Object Detection**
+
+- Paper: https://arxiv.org/pdf/2403.16440.pdf
+- Code: https://github.com/VDIGPKU/RCBEVDet
+
+**MonoCD: Monocular 3D Object Detection with Complementary Depths**
+
+- Paper: 
+- Code: https://github.com/dragonfly606/MonoCD
+
+### 10）Stereo Matching | 双目立体匹配
 
 **MoCha-Stereo: Motif Channel Attention Network for Stereo Matching**
 
@@ -169,13 +201,23 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper：https://arxiv.org/abs/2403.00486
 - Code：https://github.com/Windsrain/Selective-Stereo
 
-### 10）Cooperative Perception | 协同感知
+**Adaptive Multi-Modal Cross-Entropy Loss for Stereo Matching**
+
+- Paper: https://arxiv.org/pdf/2306.15612.pdf
+- Code: https://github.com/xxxupeng/ADL
+
+**Neural Markov Random Field for Stereo Matching**
+
+- Paper: https://arxiv.org/pdf/2403.11193.pdf
+- Code: https://github.com/aeolusguan/NMRF
+
+### 11）Cooperative Perception | 协同感知
 
 **RCooper: A Real-world Large-scale Dataset for Roadside Cooperative Perception**
 
 - Code: https://github.com/ryhnhao/RCooper
 
-### 11）SLAM
+### 12）SLAM
 
 **SNI-SLAM: SemanticNeurallmplicit SLAM**
 
@@ -186,7 +228,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper：https://arxiv.org/abs/2402.19231
 - Code：https://github.com/Lu-Feng/CricaVPR
 
-### 12）Scene Flow Estimation | 场景流估计
+### 13）Scene Flow Estimation | 场景流估计
 
 **DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement**
 
@@ -203,7 +245,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.08879.pdf
 - Code: https://github.com/vacany/sac-flow
 
-### 13）Point Cloud | 点云
+### 14）Point Cloud | 点云
 
 **Point Transformer V3: Simpler, Faster, Stronger**
 
@@ -219,7 +261,12 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Code: https://github.com/JinfengX/PointCloudPDF
 
-### 14)  Efficient Network
+**Weakly Supervised Point Cloud Semantic Segmentation via Artificial Oracle**
+
+- Paper: 
+- Code: https://github.com/jihun1998/AO
+
+### 15)  Efficient Network
 
 **Efficient Deformable ConvNets: Rethinking Dynamic and Sparse Operator for Vision Applications**
 
@@ -230,7 +277,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2307.09283.pdf
 - Code: https://github.com/THU-MIG/RepViT
 
-### 15) Segmentation
+### 16) Segmentation
 
 **OMG-Seg: Is One Model Good Enough For All Segmentation?**
 
@@ -254,22 +301,23 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper：https://arxiv.org/abs/2403.06122
 
-### 16）Radar | 毫米波雷达
+### 17）Radar | 毫米波雷达
 
 **DART: Doppler-Aided Radar Tomography**
 
 - Code: https://github.com/thetianshuhuang/dart
 
-### 17）Nerf与Gaussian Splatting
+### 18）Nerf与Gaussian Splatting
+
+**DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**
+
+- Paper: https://arxiv.org/pdf/2312.07920.pdf
+- Code: https://github.com/VDIGPKU/DrivingGaussian
 
 **Dynamic LiDAR Re-simulation using Compositional Neural Fields**
 
 - Paper: https://arxiv.org/pdf/2312.05247.pdf
 - Code: https://github.com/prs-eth/Dynamic-LiDAR-Resimulation
-
-**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**
-
-- Paper：https://arxiv.org/abs/2403.03608
 
 **NARUTO: Neural Active Reconstruction from Uncertain Target Observations**
 
@@ -279,15 +327,7 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper：https://arxiv.org/abs/2403.06912
 
-**S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes**
-
-- Paper：https://arxiv.org/pdf/2403.06205
-
-**DaReNeRF: Direction-aware Representation for Dynamic Scenes**
-
-- Paper：https://arxiv.org/pdf/2403.02265
-
-### 18）MOT: Muti-object Tracking | 多物体跟踪
+### 19）MOT: Muti-object Tracking | 多物体跟踪
 
 **Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**
 
@@ -297,25 +337,30 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper：https://arxiv.org/abs/2403.02767
 
-### 19）Multi-label Atomic Activity Recognition
+### 20）Multi-label Atomic Activity Recognition
 
 **Action-slot: Visual Action-centric Representations for Multi-label Atomic Activity Recognition in Traffic Scenes**
 
 - Paper: https://arxiv.org/pdf/2311.17948.pdf
 - Code: https://github.com/HCIS-Lab/Action-slot
 
-### 20) Motion Prediction | 运动预测
+### 21) Motion Prediction | 运动预测
 
 **SmartRefine: An Scenario-Adaptive Refinement Framework for Efficient Motion Prediction**
 
 - Code: https://github.com/opendilab/SmartRefine
 
-### 21）卷积网络相关
+### 22) Trajectory Prediction | 轨迹预测
 
-**CAM Back Again: Large Kernel CNNs from a Weakly Supervised Object Localization Perspective**
+**Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory**
 
-- Paper：https://arxiv.org/abs/2403.06676
-- Code：https://github.com/snskysk/CAM-Back-Again
+- Paper: https://arxiv.org/pdf/2403.10052.pdf
+- Code: https://github.com/daeheepark/T4P
+
+**Producing and Leveraging Online Map Uncertainty in Trajectory Prediction**
+
+- Paper: https://arxiv.org/pdf/2403.16439.pdf
+- Code: https://github.com/alfredgu001324/MapUncertaintyPrediction
 
 
 
