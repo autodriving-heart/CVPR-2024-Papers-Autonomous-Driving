@@ -228,6 +228,12 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper：https://arxiv.org/abs/2402.19231
 - Code：https://github.com/Lu-Feng/CricaVPR
 
+**Implicit Event-RGBD Neural SLAM**
+
+- Paper: https://arxiv.org/pdf/2311.11013.pdf
+- Code: https://github.com/DelinQu/EN-SLAM
+
+
 ### 13）Scene Flow Estimation | 场景流估计
 
 **DifFlow3D: Toward Robust Uncertainty-Aware Scene Flow Estimation with Iterative Diffusion-Based Refinement**
@@ -265,6 +271,12 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper: 
 - Code: https://github.com/jihun1998/AO
+
+**GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds**
+
+- Paper: 
+- Code: https://github.com/GLiDR-CVPR2024/GLiDR
+
 
 ### 15)  Efficient Network
 
@@ -306,6 +318,10 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 **DART: Doppler-Aided Radar Tomography**
 
 - Code: https://github.com/thetianshuhuang/dart
+
+**RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**
+
+- Code: https://github.com/yuvalHG/RadSimReal
 
 ### 18）Nerf与Gaussian Splatting
 
@@ -361,6 +377,20 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 - Paper: https://arxiv.org/pdf/2403.16439.pdf
 - Code: https://github.com/alfredgu001324/MapUncertaintyPrediction
+
+### 23) Depth Estimation | 深度估计
+
+**AFNet: Adaptive Fusion of Single-View and Multi-View Depth for Autonomous Driving**
+
+- Paper: https://arxiv.org/pdf/2403.07535.pdf
+- Code: https://github.com/Junda24/AFNet
+
+### 24) Event Camera | 事件相机
+
+**Seeing Motion at Nighttime with an Event Camera**
+
+- Paper: 
+- Code: https://github.com/Liu-haoyue/NER-Net?tab=readme-ov-file
 
 
 
