@@ -134,6 +134,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 ### 9）3D Object Detection | 三维目标检测
 
+**SeaBird: Segmentation in Bird’s View with Dice Loss Improves Monocular 3D Detection of Large Objects**
+
+- Paper: https://arxiv.org/pdf/2403.20318
+- Code: https://github.com/abhi1kumar/SeaBird
+
 **PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection**
 
 - Paper: https://arxiv.org/pdf/2312.08371.pdf
