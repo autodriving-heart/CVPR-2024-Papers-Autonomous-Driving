@@ -139,6 +139,11 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 - Paper: https://arxiv.org/pdf/2312.08371.pdf
 - Code: https://github.com/KuanchihHuang/PTT
 
+**SeaBird: Segmentation in Bird’s View with Dice Loss Improves Monocular 3D Detection of Large Objects**
+
+- Paper: https://arxiv.org/pdf/2403.20318
+- Code: https://github.com/abhi1kumar/SeaBird
+
 **VSRD: Instance-Aware Volumetric Silhouette Rendering for Weakly Supervised 3D Object Detection**
 
 - Code: https://github.com/skmhrk1209/VSRD
