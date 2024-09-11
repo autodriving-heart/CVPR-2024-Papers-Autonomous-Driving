@@ -97,6 +97,15 @@ We kindly invite you to our platform, Auto Driving Heart, for paper interpretati
 
 ### 5) World Model | 世界模型
 
+**GenAD: Generalized Predictive Model for Autonomous Driving**
+- Paper: https://arxiv.org/abs/2403.09630
+- Code (For OpenDV Dataset): https://github.com/OpenDriveLab/driveAGI
+- Anno (For OpenDV Dataset): https://huggingface.co/datasets/OpenDriveLab/OpenDV-YouTube-Language 
+
+**ViDAR: Visual Point Cloud Forecasting**
+- Paper: https://arxiv.org/abs/2312.17655
+- Code: https://github.com/OpenDriveLab/Vidar
+
 **Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving**
 
 - Paper: https://arxiv.org/pdf/2311.17918.pdf
